@@ -1,5 +1,11 @@
 # TikMorph Demo (early prototype)
 
+## Status
+
+> [!IMPORTANT]
+> This version of TikMorph is an early prototype.  
+> It is currently being rebuilt under Norvex.
+
 ### About TikMorph
 * TikMorph is an upcoming open-source TikTok live tool where you can customise every little thing to your liking, make your stream look like you want
 
